@@ -13,3 +13,4 @@ I’m focusing on building solid foundations in RESTful API design, CRUD operati
 - ✅ Using DTOs for clean data transfer between layers
 - ✅ Connecting and configuring PostgreSQL database
 - ✅ Basic exception handling and validation
+- ✅ JWT Security
