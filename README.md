@@ -11,6 +11,7 @@ I’m focusing on building solid foundations in RESTful API design, CRUD operati
 - ✅ Creating RESTful APIs using `@RestController`
 - ✅ Performing CRUD operations using Spring Data JPA
 - ✅ Using DTOs for clean data transfer between layers
+- ✅ Using Relational Database
 - ✅ Connecting and configuring PostgreSQL database
 - ✅ Exception handling and validation
 - ✅ JWT and Sprinng Security
